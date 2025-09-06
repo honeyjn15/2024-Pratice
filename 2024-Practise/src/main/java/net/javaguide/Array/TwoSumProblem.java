@@ -18,7 +18,6 @@ public class TwoSumProblem {
             s.add(a[i]);
 
         }
-        System.out.println("No two sum present ");
     }
 }
 
