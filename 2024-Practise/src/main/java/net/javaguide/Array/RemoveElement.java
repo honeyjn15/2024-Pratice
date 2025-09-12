@@ -1,4 +1,4 @@
-package main.java.net.javaguide.Array;
+package net.javaguide.Array;
 
 public class RemoveElement {
 

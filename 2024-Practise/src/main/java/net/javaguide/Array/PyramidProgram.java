@@ -2,7 +2,7 @@ package net.javaguide.Array;
 
 import java.util.Scanner;
 
- class pyramidProgram {
+ class PyramidProgram {
     public static void printStar(int n) {
 
         for (int i = 0; i < n; i++) {

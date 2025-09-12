@@ -1,4 +1,4 @@
-package net.javaguide.Array;
+package net.javaguide.striver;
 
 import java.util.HashSet;
 import java.util.Set;

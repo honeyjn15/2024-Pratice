@@ -1,7 +1,7 @@
 package net.javaguide.Array;
 
 
-public class Anything {
+public class MaxSubArray {
 
     public static int maxSubArray(int[] arr, int k) {
         int windowSum = 0;
